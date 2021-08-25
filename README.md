@@ -1,4 +1,18 @@
 ### Hi there 👋
+
+<h1 align="center" style="border:none; font-size: 60px; font-weight: 500;">
+  Lee GUnmo
+  <br>
+  <p align="center">
+    <a href="https://gunmo.me/">
+      <img src="gmlogo.png" width="48px" style="padding: 0px 2px;"/>
+    </a>
+    <a href="https://github.com/rjsah5676">
+      <img src="github.png" width="48px" style="padding: 0px 2px;"/>
+    </a>
+  </p>
+</h1>
+
 ### Github Stat
 <!--
 **rjsah5676/rjsah5676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
