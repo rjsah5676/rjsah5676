@@ -5,7 +5,7 @@
   <br>
   <p align="center">
     <a href="https://gunmo.me/">
-      <img src="gmlogo.png" width="48px" style="padding: 0px 2px;"/>
+      <img src="gml.png" width="48px" style="padding: 0px 2px;"/>
     </a>
     <a href="https://github.com/rjsah5676">
       <img src="github.png" width="48px" style="padding: 0px 2px;"/>
