@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Gunmo Lee 👋
 
 <h1 align="center" style="border:none; font-size: 60px; font-weight: 500;">
   Lee Gunmo
@@ -15,8 +15,10 @@
     </a>
   </p>
 </h1>
-
+<!--
 ### Github Stat
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjsah5676&theme=dark&show_icons=true)
+-->
 <!--
 **rjsah5676/rjsah5676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -31,7 +33,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjsah5676&theme=dark&show_icons=true)
 ### Baekjoon Tier
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsah5676)](https://solved.ac/rjsah5676)
