@@ -15,10 +15,7 @@
     </a>
   </p>
 </h1>
-<!--
-### Github Stat
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rjsah5676&theme=dark&show_icons=true)
--->
+
 <!--
 **rjsah5676/rjsah5676** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
