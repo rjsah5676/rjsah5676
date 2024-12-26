@@ -4,7 +4,7 @@
   Lee Gunmo
   <br>
   <p align="center">
-    <a href="https://gunmo.me/">
+    <a href="https://rjsah5676.github.io">
       <img src="gml.png" width="48px" style="padding: 0px 2px;"/>
     </a>
     <a href="https://github.com/rjsah5676">
