@@ -1,68 +1,87 @@
-### Hi, I'm Gunmo Lee 👋
+<h1 align="center">Hi, I'm Gunmo Lee 👋</h1>
 
-<h1 align="center" style="border:none; font-size: 60px; font-weight: 500;">
-  Lee Gunmo
-  <br>
-  <p align="center">
-    <a href="https://rjsah5676.github.io">
-      <img src="gml.png" width="48px" style="padding: 0px 2px;"/>
-    </a>
-    <a href="https://github.com/rjsah5676">
-      <img src="github.png" width="48px" style="padding: 0px 2px;"/>
-    </a>
-    <a href="https://www.acmicpc.net/user/rjsah5676">
-      <img src="boj.png" width="48px" style="padding: 0px 2px;"/>
-    </a>
-  </p>
-</h1>
+<p align="center">
+  <a href="https://rjsah5676.github.io">
+    <img src="gml.png" width="40px" alt="Portfolio" />
+  </a>
+  <a href="https://github.com/rjsah5676">
+    <img src="github.png" width="40px" alt="GitHub" />
+  </a>
+  <a href="https://www.acmicpc.net/user/rjsah5676">
+    <img src="boj.png" width="40px" alt="Baekjoon" />
+  </a>
+</p>
 
+---
 
-### Baekjoon Tier
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsah5676)](https://solved.ac/rjsah5676)
-### 💪 Skills
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+### 💡 About Me
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+> 꾸준히, 깊게 공부하는 개발자 **이건모**입니다.  
+> 백엔드 중심 풀스택 개발자로, 실시간 통신과 보안 인증에 관심이 많고  
+> 사용자의 경험과 기술의 안정성을 동시에 고민하며 프로젝트를 설계하고 운영합니다.
+
+---
+
+### 🧠 Tech Stack
+
+#### 🚀 Backend
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
-![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
-![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
-![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-
 ![JPA](https://img.shields.io/badge/JPA-%23007ACC.svg?style=for-the-badge&logo=hibernate&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
 ![WebSocket](https://img.shields.io/badge/WebSocket-004880?style=for-the-badge&logo=websockets&logoColor=white)
 ![STOMP](https://img.shields.io/badge/STOMP-%23F29111.svg?style=for-the-badge&logo=stomp&logoColor=white)
 
-![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
-![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
+#### 💻 Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+#### 📦 Infra & Tools
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Naver Cloud](https://img.shields.io/badge/naver%20cloud-03C75A?style=for-the-badge&logoColor=white)
 
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)  
+#### 🧪 AI / Data / Others
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=Python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+
+---
+
+### 🏆 Baekjoon Tier
+
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rjsah5676)](https://solved.ac/rjsah5676)
+
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rjsah5676&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rjsah5676&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=rjsah5676&theme=tokyonight" height="150px"/>
+</p>
+
+---
+
+### 📬 Contact
+
+- ✉️ Email : rjsah5676@gmail.com  
+- 🌐 Portfolio : [https://rjsah5676.github.io](https://rjsah5676.github.io)  
+- 🧵 Project (MIMYO) : [https://mimyo.my](https://mimyo.my)
+
+---
+
+> 꾸준함이 실력입니다.  
+> 관심 분야 : 커머스, 실시간 시스템, 인증 보안, 성능 최적화
