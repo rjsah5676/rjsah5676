@@ -10,6 +10,9 @@
   <a href="https://www.acmicpc.net/user/rjsah5676">
     <img src="boj.png" width="40px" alt="Baekjoon" />
   </a>
+<a href="https://mimyo.my">
+    <img src="mimyo_logo.jpg" width="40px" alt="mimyo" />
+  </a>
 </p>
 
 ---
