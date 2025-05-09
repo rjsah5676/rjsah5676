@@ -79,6 +79,13 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/Jupyter_Notebook-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 
+#### 🛠️ API
+![Google](https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+![Naver](https://img.shields.io/badge/Naver-03C75A.svg?style=for-the-badge&logo=naver&logoColor=white)
+![Kakao](https://img.shields.io/badge/Kakao-FFCD00.svg?style=for-the-badge&logo=kakao&logoColor=black)
+![Toss Payments](https://img.shields.io/badge/Toss_Payments-0064FF.svg?style=for-the-badge&logo=toss&logoColor=white)
+![Kakao Map](https://img.shields.io/badge/Kakao_Map-FFCD00.svg?style=for-the-badge&logo=kakaotalk&logoColor=black)
+
 ---
 
 ### 🏆 Baekjoon Tier
