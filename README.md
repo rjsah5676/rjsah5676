@@ -37,11 +37,16 @@
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
 ![JPA](https://img.shields.io/badge/JPA-%23007ACC.svg?style=for-the-badge&logo=hibernate&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333.svg?style=for-the-badge&logo=webrtc&logoColor=white)
 ![WebSocket](https://img.shields.io/badge/WebSocket-004880?style=for-the-badge&logo=websockets&logoColor=white)
 ![STOMP](https://img.shields.io/badge/STOMP-%23F29111.svg?style=for-the-badge&logo=stomp&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101.svg?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JSP](https://img.shields.io/badge/JSP-%23F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black)
+![Flask](https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### 💻 Frontend
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
@@ -61,6 +66,12 @@
 ![PuTTY](https://img.shields.io/badge/PuTTY-02303A.svg?style=for-the-badge&logo=putty&logoColor=white)
 ![Certbot](https://img.shields.io/badge/Certbot-003A70.svg?style=for-the-badge&logo=letsencrypt&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
+#### 🛢️ Database
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MyBatis](https://img.shields.io/badge/MyBatis-DB0000.svg?style=for-the-badge&logo=MyBatis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firestore](https://img.shields.io/badge/Firestore-FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black)
 
 #### 🧪 AI / Data / Others
 ![OpenCV](https://img.shields.io/badge/OpenCV-white?style=for-the-badge&logo=opencv&logoColor=black)
