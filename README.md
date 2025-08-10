@@ -14,7 +14,7 @@
     <img src="mimyo_logo.jpg" width="40px" alt="mimyo" />
   </a>
   <a href="https://ohsori.my">
-    <img src="mimyo_logo.jpg" width="40px" alt="ohsori" />
+    <img src="ohsori.png" width="40px" alt="ohsori" />
   </a>
 </p>
 
