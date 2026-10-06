@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Gunmo Lee 👋</h1>
 
 <p align="center">
-  <a href="https://rjsah5676.github.io">
+  <a href="https://gunmo.my">
     <img src="gml.png" width="40px" alt="Portfolio" />
   </a>
   <a href="https://github.com/rjsah5676">
@@ -9,12 +9,6 @@
   </a>
   <a href="https://www.acmicpc.net/user/rjsah5676">
     <img src="boj.png" width="40px" alt="Baekjoon" />
-  </a>
-<a href="https://mimyo.my">
-    <img src="mimyo_logo.jpg" width="40px" alt="mimyo" />
-  </a>
-  <a href="https://ohsori.my">
-    <img src="ohsori.png" width="40px" alt="ohsori" />
   </a>
 </p>
 
@@ -119,10 +113,8 @@
 ### 📬 Contact
 
 - ✉️ Email : rjsah5676@gmail.com  
-- 🌐 Portfolio : [https://rjsah5676.github.io](https://rjsah5676.github.io)  
-- 🧵 Project (MIMYO) : [https://mimyo.my](https://mimyo.my)
+- 🌐 Portfolio : [https://gunmo.my](https://gunmo.my)  
 
 ---
 
-> 사이트 다 닫았습니다.  
-> 관심 분야 : 커머스, 실시간 시스템, 인증 보안, 성능 최적화  
+> 관심 분야 : 커머스, 실시간 시스템, 웹 게임, 인증 보안, 성능 최적화  
